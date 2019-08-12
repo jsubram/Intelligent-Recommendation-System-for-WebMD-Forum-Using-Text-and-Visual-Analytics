@@ -2,7 +2,7 @@
 # Intelligent Recommendation System for WebMD Forum Using Text and Visual Analytics
 Visual analytics plays a pivotal role in today’s business operations for carrying out decisions, driven by insights gathered from visual reports. It is an incredibly powerful technique and is one of the core components of business intelligence. Rather than just conveying information to the audience with no domain knowledge, it personally and financially benefits them and also benefits the company. In this project, data is gathered from a popular medical forum known as WebMD which serves as an online community where people post questions regarding medical problems that are answered by experts. Hello Doctor, goes a step ahead and helps a layman understand what the solution to the medical problem is, by performing textual analytics on the WebMD data to create stunning visualizations which are easy to interpret and conveys the required information
 
-![Poster](https://github.com/jsubram/Intelligent-Recommendation-System-for-WebMD-Forum-Using-Text-and-Visual-Analytics/Poster.jpg)
+![Poster](https://github.com/jsubram/Intelligent-Recommendation-System-for-WebMD-Forum-Using-Text-and-Visual-Analytics/blob/master/Poster.jpg)
 Format: ![Alt Text](url)
 
 # D3: Data-Driven Documents
